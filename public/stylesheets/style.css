@@ -107,6 +107,7 @@ nav {
 
 .blogName {
   display: flex;
+  justify-content: center;
 }
 
 main {
@@ -145,6 +146,12 @@ main {
   line-height: 150%;
 }
 
+.post .title {
+  font-size: large;
+  color: #225ca3;
+  font-weight: bold;
+}
+
 .post .title span {
   font-style: italic;
   font-size: 90%;
@@ -154,15 +161,6 @@ main {
 .edit-link {
   display: block;
   margin: -1.5% 0 2% 0;
-}
-
-.upvote-btn {
-  background-color: #197d0f;
-  transition: background-color 0.1s;
-}
-
-.upvote-btn:hover {
-  background-color: #1f9c13;
 }
 
 .comment-form {
