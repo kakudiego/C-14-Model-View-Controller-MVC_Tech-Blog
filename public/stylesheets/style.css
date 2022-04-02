@@ -115,6 +115,33 @@ main {
   padding: 2% 4%;
 }
 
+.waves-effect {
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+  background-color: #26a69a;
+  text-align: center;
+  letter-spacing: 0.5px;
+  transition: background-color 0.2s ease-out;
+  cursor: pointer;
+  border: none;
+  border-radius: 2px;
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  padding: 0 16px;
+  text-transform: uppercase;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+  font-size: 14px;
+  outline: 0;
+}
+
 .btn-no-style {
   background: none;
   border: none;
