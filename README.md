@@ -37,6 +37,7 @@ contact below
 ## Tests
 
 To test, run the following command: npm start
+Go to Heroku to see the app running. Link: https://afternoon-lowlands-44862.herokuapp.com/
 
 ## Contact
 
@@ -47,6 +48,10 @@ To test, run the following command: npm start
 Project in GitHub: https://github.com/kakudiego/C-14-Model-View-Controller-MVC_Tech-Blog
 
 If you have any questions, contact me at diegokaku@gmail.com.
+
+## HEROKU
+
+https://afternoon-lowlands-44862.herokuapp.com/
 
 ## Walkthrough video
 
