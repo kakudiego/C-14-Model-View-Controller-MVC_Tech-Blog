@@ -1,4 +1,4 @@
-# C-13-Object-Relational-Mapping-ORM_E-commerce-Back-End
+# C-14-Model-View-Controller-MVC_Tech-Blog
 
 [![badge](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/licenses/MIT)
 
@@ -54,7 +54,14 @@ If you have any questions, contact me at diegokaku@gmail.com.
 https://afternoon-lowlands-44862.herokuapp.com/
 
 ## Walkthrough video
+n/a
 
-#### Seed and Running:
+#### SS front-page:
+![front-page](https://user-images.githubusercontent.com/94471049/161463796-ef1b4ee1-a30d-4c05-8ecc-3586d970cb94.png)
 
-#### Database seeded:
+#### SS login page:
+![login page](https://user-images.githubusercontent.com/94471049/161463802-458cee1a-d0f4-48f7-bc19-026468dcbe0d.png)
+
+#### SS dashboard:
+![Dashboard](https://user-images.githubusercontent.com/94471049/161463807-85504fca-db7e-417b-8592-be7cd32cce67.png)
+
